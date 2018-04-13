@@ -1,0 +1,8 @@
+Flickr8k_Dataset/
+Flickr8k_text/
+old_generated_models/
+model_agnostic/features.pkl
+model_agnostic/model_0.h5
+model_agnostic/model_1.h5
+model_agnostic/model_2.h5
+model_agnostic/model_3.h5
