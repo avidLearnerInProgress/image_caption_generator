@@ -233,6 +233,7 @@ def evaluate_model(model, descriptions, images, tokenizer, max_len):
 	print('BLEU-4: %f' % corpus_bleu(actual, predicted, weights=(0.25, 0.25, 0.25, 0)))
 
 
+
 #calling function
 def _load_model():
 	filename = 'Flickr8k_text/Flickr_8k.trainImages.txt'
